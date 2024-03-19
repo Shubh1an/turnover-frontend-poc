@@ -1,0 +1,76 @@
+{
+    "numberOfItems": 5,
+    "items": [
+        {
+            "brandName": "LAYS",
+            "fullName": "Potatp Chips Variety Pack, 1 Ounce (Pack of 40)",
+            "ifOffered": true,
+            "price": 40,
+            "offerPrice": 29.0,
+            "offer": 19,
+            "MSRP": 25,
+            "imgURL": "https://res.cloudinary.com/dto1l2vmb/image/upload/v1710507197/qs3vvvprjh18tc9hfgyl.jpg"
+
+        },
+        {
+            "brandName": "LAYS",
+            "fullName": "Potatp Chips Variety Pack, 1 Ounce (Pack of 40)",
+            "ifOffered": false,
+            "price": 29,
+            "offerPrice": 0.0,
+            "offer": 0,
+            "MSRP": 25,
+            "imgURL": "https://res.cloudinary.com/dto1l2vmb/image/upload/v1710507338/vf1fra5plhsj8zqst0gf.webp"
+        },
+        {
+            "brandName": "LAYS",
+            "fullName": "Potatp Chips Variety Pack, 1 Ounce (Pack of 40)",
+            "ifOffered": false,
+            "price": 29,
+            "offerPrice": 0.0,
+            "offer": 0,
+            "MSRP": 25,
+            "imgURL": "https://res.cloudinary.com/dto1l2vmb/image/upload/v1710507423/nwx7nw39xfz1noym82wj.jpg"
+        },
+        {
+            "brandName": "LAYS",
+            "fullName": "Potatp Chips Variety Pack, 1 Ounce (Pack of 40)",
+            "ifOffered": true,
+            "price": 40,
+            "offerPrice": 29.0,
+            "offer": 19,
+            "MSRP": 25,
+            "imgURL": "https://res.cloudinary.com/dto1l2vmb/image/upload/v1710507473/gqtfgxola6gqzey7qkyj.jpg"
+        },
+        {
+            "brandName": "LAYS",
+            "fullName": "Potatp Chips Variety Pack, 1 Ounce (Pack of 40)",
+            "ifOffered": false,
+            "price": 29,
+            "offerPrice": 0.0,
+            "offer": 0,
+            "MSRP": 25,
+            "imgURL": "https://res.cloudinary.com/dto1l2vmb/image/upload/v1710507197/qs3vvvprjh18tc9hfgyl.jpg"
+        },
+        {
+            "brandName": "LAYS",
+            "fullName": "Potatp Chips Variety Pack, 1 Ounce (Pack of 40)",
+            "ifOffered": true,
+            "price": 40,
+            "offerPrice": 29.0,
+            "offer": 19.0,
+            "MSRP": 25,
+            "imgURL": "https://res.cloudinary.com/dto1l2vmb/image/upload/v1710507473/gqtfgxola6gqzey7qkyj.jpg"
+        },
+        {
+            "brandName": "LAYS",
+            "fullName": "Potatp Chips Variety Pack, 1 Ounce (Pack of 40)",
+            "ifOffered": false,
+            "price": 29,
+            "offerPrice": 0,
+            "offer": 0.0,
+            "MSRP": 25,
+            "imgURL": "https://res.cloudinary.com/dto1l2vmb/image/upload/v1710507197/qs3vvvprjh18tc9hfgyl.jpg"
+        }
+    ]
+}
