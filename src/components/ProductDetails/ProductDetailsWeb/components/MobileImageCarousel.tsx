@@ -26,9 +26,11 @@ const MobileImageCarousel = ({ productImageList }: Props) => {
           ref={(el) => (reactSwipeEl = el)}
         >
           {productImageList.map((image: string, ind: number) => (
-            <div className="w-full h-full grid place-items-center">
+            <div
+              key={image + ind}
+              className="w-full h-full grid place-items-center"
+            >
               <Image
-                key={image}
                 src={image}
                 priority
                 alt="Main Product"
